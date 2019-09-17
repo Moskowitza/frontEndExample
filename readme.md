@@ -16,4 +16,4 @@ The front end script used is written with vanilla JS (my favorite flavor). The J
 
 ## SVG images
 
-I created the svg images myself in Adobe Illustrator. If you want to use them, go ahead.
+I created the svg images myself in Adobe Illustrator. If you want to use them, go ahead. A word, These images may be best served as png on your site to increase performance. I am leaving the embedded SVG
